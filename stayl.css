@@ -1,0 +1,157 @@
+.container{
+    width: 1250px;
+    margin: 0 auto;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+header ul a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .a{
+    color: #DE2E54;
+    border: 2px #DE2E54 solid;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+header .container .color{
+    color: #DE2E54;
+}
+
+.intro{
+    background-image: url(./imges/image\ 4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.intro a{
+    color: white;
+    border: 2px #DE2E54 solid;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    background-color: #DE2E54;
+    margin-left: -40px;
+}
+
+.intro ul{
+    list-style: none;
+}
+
+.intro .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro .container h1{
+    margin-top: 150px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.x{
+    text-align: center;
+    margin-bottom: -230px;
+    margin-top: 70px;
+}
+
+.contact .qator1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.contact .qator1 img{
+    margin-right: 70px;
+} 
+
+.asa{
+    width: 332px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.contact .container{
+    justify-items: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 200px;
+}
+
+.ypon .container{
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.ypon{
+    background-color: #0EB4C1;
+}
+
+.ypon .container .right{
+    margin-top: 25px;
+    margin-bottom: 350px;
+}
+
+.ror{
+    margin-left: 50px;
+    margin-top: 320px;
+}
+
+footer ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: #222222;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.lor{
+    color: #DE2E54;
+}
+
+.pop{
+    margin-left: 200px;
+}
+
+footer .container {
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+header .container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
